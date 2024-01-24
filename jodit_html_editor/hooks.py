@@ -15,8 +15,8 @@ app_license = "MIT"
 # ------------------
 
 # include js, css files in header of desk.html
-app_include_css = "/assets/jodit_html_editor/css/jodit.min.css"
-app_include_js = "/assets/jodit_html_editor/js/jodit.min.js"
+app_include_css = ["jodit_html_editor.bundle.css"]
+app_include_js = ["jodit_html_editor.bundle.js"]
 
 # include js, css files in header of web template
 # web_include_css = "/assets/jodit_html_editor/css/jodit_html_editor.css"
