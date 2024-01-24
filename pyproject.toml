@@ -3,7 +3,7 @@ name = "jodit_html_editor"
 authors = [
     { name = "GreyCube Technologies", email = "admin@greycube.in"}
 ]
-description = "Replace Quill Text Editor With Jodit HTML Editor on WebPage and WebForm'"
+description = "Replace Quill Text Editor With Jodit HTML Editor on WebPage and WebForm"
 requires-python = ">=3.8"
 readme = "README.md"
 dynamic = ["version"]
