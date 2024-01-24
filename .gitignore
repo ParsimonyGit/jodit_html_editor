@@ -4,3 +4,4 @@
 *.swp
 tags
 jodit_html_editor/docs/current
+jodit_html_editor/public/dist
